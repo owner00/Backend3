@@ -1,0 +1,10 @@
+/Users/mymac/start.ng/backend/ThirdTask/bin/Debug/netcoreapp3.1/ThirdTask.deps.json
+/Users/mymac/start.ng/backend/ThirdTask/bin/Debug/netcoreapp3.1/ThirdTask.runtimeconfig.json
+/Users/mymac/start.ng/backend/ThirdTask/bin/Debug/netcoreapp3.1/ThirdTask.runtimeconfig.dev.json
+/Users/mymac/start.ng/backend/ThirdTask/bin/Debug/netcoreapp3.1/ThirdTask.dll
+/Users/mymac/start.ng/backend/ThirdTask/bin/Debug/netcoreapp3.1/ThirdTask.pdb
+/Users/mymac/start.ng/backend/ThirdTask/obj/Debug/netcoreapp3.1/ThirdTask.csprojAssemblyReference.cache
+/Users/mymac/start.ng/backend/ThirdTask/obj/Debug/netcoreapp3.1/ThirdTask.AssemblyInfoInputs.cache
+/Users/mymac/start.ng/backend/ThirdTask/obj/Debug/netcoreapp3.1/ThirdTask.AssemblyInfo.cs
+/Users/mymac/start.ng/backend/ThirdTask/obj/Debug/netcoreapp3.1/ThirdTask.dll
+/Users/mymac/start.ng/backend/ThirdTask/obj/Debug/netcoreapp3.1/ThirdTask.pdb
