@@ -44,9 +44,9 @@ namespace ThirdTask
         }
 
         public static bool numberGuesser(int limit, int guesses) {
-            Random random = new Random(5);
+            Random random = new Random();
             int answer = random.Next(limit) + 1;
-            Console.WriteLine("The answer is " + answer);
+            //Console.WriteLine("The answer is " + answer);
             bool result = false;
             int remainingGuesses = guesses;
             for(int i = 0;i<guesses;i++) {
